@@ -1,0 +1,9 @@
+[project]
+name = "python-app"
+version = "0.0.1"
+description = "Small scaffolded app named 'python'"
+readme = "README.md"
+authors = [ { name = "Auto-generated" } ]
+
+[project.scripts]
+python-app = "python.main:main"
